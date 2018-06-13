@@ -1,0 +1,14 @@
+Designs for the web site ###########TO BE REVIEWED
+Justifications of the design decisions #############TO BE FILLED IN
+Annotated screen shots of the completed web site
+Evidence of testing including:
+  test plans and data  ##############TO BE FILLED IN
+  user feedback
+  details of the changes made in response to testing
+Annotated screen shots of the optimised website
+Evaluation of the design and development of the web website ###########TO BE COMPLETED AND FILLED IN
+Evidence of:
+  individual responsibility
+  effective time management
+  time plan
+  witness testimony from your tutor

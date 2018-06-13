@@ -1,0 +1,24 @@
+P6:
+  Review the extent to which the website meets  client requirements
+P5:
+  Test the website for:
+    Functionality
+    Compatibility
+    Usability
+P4:
+  Produce a website for an intended audience and purpose
+P3:
+  Review the website design proposals with others to identify and inform improvements
+P2:
+  Produce designs for a website that meet client requirements
+
+
+M3:
+  Optimise a website to meet client requirements
+M2:
+  Justify the design decisions, explaining how they will meet the user's needs and be fit for purpose
+
+D3:
+  Demonstrate individual responsibility, creativity and effective self-management in the design, development and review of a website
+D2:
+  Evaluate the design and optimised website against client requirements

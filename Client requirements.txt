@@ -1,0 +1,13 @@
+Web development company "Hot Beans Web"
+
+Create a website for recruitment of web developers
+
+The website must include:
+  A profile of the company itself                 About us.html
+  Profiles of existing trainee web developers     Meet us.html
+  Job specification and required qualifications   Job specification.html
+  An on-line application form                     Sign up.html
+  Links to web development courses                Courses.html
+
+Target audience:
+  People who have completed training courses/qualifications related to web development and are now looking for a job as a web developer

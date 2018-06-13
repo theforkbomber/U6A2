@@ -1,0 +1,54 @@
+.NavigationHolder
+{
+	Position: relative;
+	top: 0;
+	left: 0;
+}
+.NavigationButton1
+{
+	position: absolute;
+	top: 0px;
+	left: 350px;
+}
+.NavigationButton2
+{
+	position: absolute;
+	top: 75px;
+	left: 325px;
+}
+.NavigationButton3
+{
+	position: absolute;
+	top: 146px;
+	left: 295px;
+}
+.NavigationButton4
+{
+	position: absolute;
+	top: 220px;
+	left: 230px;
+}
+.NavigationButton5
+{
+	position: absolute;
+	top: 290px;
+	left: 150px;
+}
+.NavigationButton6
+{
+	position: absolute;
+	top: 365px;
+	left: 00px;
+}
+.Logo
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+div.Navigation
+{
+	position: fixed;
+	top:0px;
+	left:0px;
+}
